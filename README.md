@@ -82,7 +82,7 @@ The project compares payer and service-line relationships to highlight areas wit
 
 ## Repository File
 
-- `managed-care-reimbursement-analysis.xlsx`
+- [`Fuller, Kyle - Managed Care Reimbursement & Utilization Trend Analysis.xlsx`](./Fuller%2C%20Kyle%20-%20Managed%20Care%20Reimbursement%20%26%20Utilization%20Trend%20Analysis.xlsx)
 
 ## Author
 
